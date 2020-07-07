@@ -62,13 +62,13 @@ public class BotMain extends TelegramLongPollingBot {
                 List<InlineKeyboardButton> rowInline4 = new ArrayList<>();
                 rowInline4.add(new InlineKeyboardButton().setText("NodeJS").setCallbackData("update_msg_text"));
 
-                // Set the keyboard to the markup
+                // Цикл со считыванием из файла json для добавления кнопок
                 rowsInline.add(rowInline1);
                 rowsInline.add(rowInline2);
                 rowsInline.add(rowInline3);
                 rowsInline.add(rowInline4);
 
-                // Add it to the message
+                // Добавляем в сообщение
                 markupInline.setKeyboard(rowsInline);
                 message.setReplyMarkup(markupInline);
                 try {
