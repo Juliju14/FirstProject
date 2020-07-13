@@ -1,3 +1,4 @@
+package com.julia.bot;
 
 import org.telegram.telegrambots.ApiContextInitializer;
 import org.telegram.telegrambots.meta.TelegramBotsApi;

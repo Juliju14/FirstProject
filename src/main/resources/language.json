@@ -1,4 +1,9 @@
- [{"id":"0", "language":"Java"},{"id":"1", "language":"ReactJS"},{"id":"2","language":"HTML+CSS"},{"id":"3","language":"Ruby"}]
+ [
+   {"id":"0", "callback": "language-java", "name":"Java"},
+   {"id":"1", "callback": "language-reactjs", "name":"ReactJS"},
+   {"id":"2", "callback": "language-html+css", "name":"HTML+CSS"},
+   {"id":"3", "callback": "language-ruby", "name":"Ruby"}
+ ]
 
 
 

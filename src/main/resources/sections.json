@@ -1,0 +1,8 @@
+[
+  {"id": "1", "callback": "sections-java-oop", "name": "ООП"},
+  {"id": "2", "callback": "sections-java-classesAndMethods", "name": "Классы и методы"},
+  {"id": "3", "callback": "sections-java-arrangementOfJava", "name": "Устройство Java"},
+  {"id": "4", "callback": "sections-java-primitives", "name": "Примитивы"},
+  {"id": "5", "callback": "sections-java-collections", "name": "Коллекции"},
+  {"id": "6", "callback": "sections-java-multithreading", "name": "Многопоточность"}
+]
